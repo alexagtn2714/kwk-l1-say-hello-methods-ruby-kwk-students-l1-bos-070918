@@ -1,6 +1,6 @@
 # Build your say_hello method here
 Def say_hello
+your_name = gets.chomp
 puts "Hello #{your_name}."
-your_name = "MN"
 end
 say_hello
